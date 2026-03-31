@@ -18,8 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", Title: "Home Page", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "resume.pdf", Title: "Resume", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:mcall012@odu.edu"}
